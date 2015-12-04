@@ -1,3 +1,6 @@
-== My CV ==
+# My CV
 
-Chcesz mnie zatrudnić to tu masz wszystko! If you want to hire me it's all here!
+If you want to hire me it's all here!
+
+### License
+You own me a beer if you want to copy this!
