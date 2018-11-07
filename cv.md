@@ -1,4 +1,8 @@
-= CV Łukasz Lenart
+---
+layout: default
+---
+
+# CV Łukasz Lenart
 
 :doctype: book
 :source-highlighter: coderay
