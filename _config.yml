@@ -13,12 +13,9 @@ style: styles-3
 
 #Profile information
 name: Łukasz Lenart
-tagline: Full Stack Developer
+tagline: Software Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: "I'm an application developer in a wide variety of business applications, particularly experienced in client/server and relational database design using Java and Scala. My specialties include social insurance, automotive, production, purchasing, and banking. I'm a Lead Developer on the Apache Struts project since 2011. I hold a Bachelor of Computer Systems with an emphasis on Information Systems"
 
 #sidebar links
 email: lukasz@lenart.org.pl
