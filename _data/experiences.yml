@@ -40,6 +40,11 @@
   details: "Developed an advice system, supported customer needs, analyzed and proposed solutions. Insurance Offers System - created a Web interface to a mainframe system that allows the preparation of insurance offers for private and business customers. Technology used: J2EE 1.4, Struts 1, Hibernate 3, Axis2, IntelliJ IDEA, WebLogic 8.1, DB2, Mainframe, Windows Server 2003, CVS/Subversion"
 - experience:
   role: Software Developer
+  time: 07/2007 - 08/2007
+  company: CSC, Vien, Austria
+  details: "Document Workflow System - created a dedicated workflow system to optimize and speed up document flow between different departments. Technology used: Borland Delphi, JEE 5, Struts 1, Spring 2, Hibernate 3, Tomcat, Linux,SQL Server 2005, Windows Server 2003, Subversion"
+- experience:
+  role: Software Developer
   time: 02/2006 - 06/2007
   company: Delphi Automotive Poland, Jelesnia, Poland
   details: "Document Workflow System - created a dedicated workflow system to optimize and speed up document flow between different departments. Technology used: Borland Delphi, JEE 5, Struts 1, Spring 2, Hibernate 3, Tomcat, Linux,SQL Server 2005, Windows Server 2003, Subversion"
@@ -58,3 +63,13 @@
   time: 01/2003 - 04/2006
   company: Delphi Automotive Poland, Jelesnia, Poland
   details: "Shop Floor Efficiency Monitoring - collected and analyzed production data to generate reports for top management. Technology used: Borland Delphi, JEE 5, Struts 1, Spring 2, Hibernate 3, Tomcat, Linux, SQL Server 2005, Windows Server 2003, Subversion."
+- experience:
+  role: Infrastructure Engineer
+  time: 04/1999 - 12/2003
+  company: Delphi Automotive Poland, Jelesnia, Poland
+  details: "Manage a company network based on Novell Netware and eDirectory, Windows NT/2000 with ActiveDirectory. Support users on daily basis, support printers and shop floor devices."
+  - experience:
+  role: Computer Systems Engineer
+  time: 01/1998 - 03/1999
+  company: ZUS, Sucha Beskidzka, Poland
+  details: "Provided network and user support"
