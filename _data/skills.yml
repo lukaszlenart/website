@@ -5,6 +5,12 @@
   name: Scala
   level: 60%
 - skill:
+  name: Helm & Kubernetes & Docker
+  level: 50%
+- skill:
+  name: Dgraph & Cassandra
+  level: 50%
+- skill:
   name: JavaScript & TypeScript
   level: 40%
 - skill:
@@ -12,10 +18,4 @@
   level: 40%
 - skill:
   name: HTML5 & CSS
-  level: 60%
-- skill:
-  name: Kubernetes & Docker
-  level: 50%
-- skill:
-  name: Dgraph
   level: 60%
