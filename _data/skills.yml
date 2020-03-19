@@ -1,15 +1,21 @@
 - skill:
   name: Java
-  level: 90%
+  level: 80%
 - skill:
   name: Scala
-  level: 70%
+  level: 60%
 - skill:
   name: JavaScript & TypeScript
-  level: 50%
+  level: 40%
 - skill:
   name: AngularJS
   level: 40%
 - skill:
   name: HTML5 & CSS
+  level: 60%
+- skill:
+  name: Kubernetes & Docker
+  level: 50%
+- skill:
+  name: Dgraph
   level: 60%
