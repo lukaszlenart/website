@@ -11,5 +11,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: jekyll-build-optional-deploy-gh-pages
-      uses: agentd00nut/jekyll-build-optional-deploy-gh-pages@v1
+    - name: Jekyll Actions
+      uses: helaili/jekyll-action@2.0.2
+      env:
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
