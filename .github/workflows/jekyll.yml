@@ -11,5 +11,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Jekyll 4 Build & Deploy
-      uses: joshlarsen/jekyll4-deploy-gh-pages@v1.2
+    - name: jekyll-build-optional-deploy-gh-pages
+      uses: agentd00nut/jekyll-build-optional-deploy-gh-pages@v1
