@@ -1,6 +1,7 @@
 #!/bin/sh
 
-jekyll build
+bundle install
+bundle exec jekyll build
 
 git co gh-pages
 

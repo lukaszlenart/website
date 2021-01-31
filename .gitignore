@@ -3,3 +3,4 @@ _site
 temp
 .vscode
 .sass-cache
+.jekyll-cache/
