@@ -38,3 +38,5 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
+
+exclude: [update.sh]
