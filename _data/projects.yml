@@ -1,4 +1,4 @@
-intro: "Below you will find all my projects that I was engaded with, all commercial and open sourced."
+intro: "Below you will find all my projects that I was engaged with, all commercial and open sourced."
 projects:
   - project:
     title: The Apache Struts
@@ -11,7 +11,7 @@ projects:
   - project:
     title: Launch4j Maven Plugin
     link: "https://github.com/lukaszlenart/launch4j-maven-plugin"
-    tagline: "A Maven wrapper around http://launch4j.sourceforge.net/ which allows pack JARs into executables and creates installators"
+    tagline: "A Maven wrapper around http://launch4j.sourceforge.net/ which allows pack JARs into executables and creates installers"
   - project:
     title: Gruuf
     link: "https://gruuf.com/"
