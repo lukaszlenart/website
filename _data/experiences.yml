@@ -2,7 +2,7 @@
   role: Software Developer
   time: 06/2018 - Present
   company: Topdown Corp., Rockville, Maryland
-  details: "Develop a cloud-based solution that is simple, powerful, flexible, secure and affordable CCM solution using Scala, AngularJS and Docker on Kubernetes cluster. It helps companies improve the consistency of omni-channel customer communications across customer journeys and throughout the customer lifecycle.  Find out more at: http://www.topdownsystems.com/products/INTOUCH"
+  details: "Develop a cloud-based solution that is simple, powerful, flexible, secure and affordable CCM solution using Scala, React and Docker on Kubernetes cluster. It helps companies improve the consistency of omni-channel customer communications across customer journeys and throughout the customer lifecycle. Technologies used: Scala, Akka, Dgraph, RabbitMQ, Amazon S3, Git."
 - experience:
   role: Research Engineer
   time: 11/2017 - 11/2018
