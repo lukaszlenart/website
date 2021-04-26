@@ -18,7 +18,7 @@ jobs:
         uses: misaelnieto/web_to_pdf_action@master
         with:
           webPageURL: https://lenart.org.pl/
-          outputFile: ./cv.pdf
+          outputFile: ./_site/cv.pdf
           usePuppeteer: true
           useScreen: true
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "8mm", "right": "8mm", "bottom": "10mm"}, "printBackground": "true", "displayHeaderFooter": "true"}'
