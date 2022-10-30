@@ -1,5 +1,10 @@
 - experience:
   role: Software Developer
+  time: 12/2021 - 09/2022
+  company: tiramizoo Gmbh, Munich, Germany
+  details: "Develope and support route optimization module which is used accross the world to optimize multi-stop multi-vehicle routes for your last mile delivery or daily appointments. Technologies used: Java, Spring, Amazon S3, Amazon Batch, Amazon DynamoDB, Git."
+- experience:
+  role: Software Developer
   time: 06/2018 - 09/2021
   company: Topdown Corp., Rockville, Maryland
   details: "Develop a cloud-based solution that is simple, powerful, flexible, secure and affordable CCM solution using Scala, React and Docker on Kubernetes cluster. It helps companies improve the consistency of omni-channel customer communications across customer journeys and throughout the customer lifecycle. Technologies used: Scala, Akka, Dgraph, RabbitMQ, Amazon S3, Git."
