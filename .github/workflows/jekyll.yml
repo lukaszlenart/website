@@ -11,6 +11,6 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: jekyll
-        uses: helaili/jekyll-action@2.1.0
+        uses: helaili/jekyll-action@2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
