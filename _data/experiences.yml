@@ -1,8 +1,13 @@
 - experience:
+  role: Technical Team Lead
+  time: 01/2022 - still
+  company: [NDA]
+  details: "Build a new cloud based platform to support selling radio/music/podcasts subscription. Technologies used: Scala, Smithy, http4s, Scala Cats & Effect, Amazon Kinesis, Amazon DynamoDB, Git."
+- experience:
   role: Software Developer
   time: 12/2021 - 09/2022
   company: tiramizoo Gmbh, Munich, Germany
-  details: "Develope and support route optimization module which is used accross the world to optimize multi-stop multi-vehicle routes for your last mile delivery or daily appointments. Technologies used: Java, Spring, Amazon S3, Amazon Batch, Amazon DynamoDB, Git."
+  details: "Develop and support route optimization module which is used across the world to optimize multi-stop multi-vehicle routes for your last mile delivery or daily appointments. Technologies used: Java, Spring, Amazon S3, Amazon Batch, Amazon DynamoDB, Git."
 - experience:
   role: Software Developer
   time: 06/2018 - 09/2021
