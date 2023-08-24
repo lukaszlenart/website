@@ -1,7 +1,7 @@
 - experience:
   role: Technical Team Lead
   time: 01/2022 - still
-  company: [NDA] a US based corporation
+  company: "[NDA] a US based corporation"
   details: "Build a new cloud based platform to support selling radio/music/podcasts subscription. Technologies used: Scala, Smithy, http4s, Scala Cats & Effect, Amazon Kinesis, Amazon DynamoDB, Git."
 - experience:
   role: Software Developer
