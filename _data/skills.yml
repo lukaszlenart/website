@@ -5,8 +5,11 @@
   name: Scala
   level: 80%
 - skill:
-  name: Helm & Kubernetes & Docker
+  name: AWS DynamoDB, Kinesis, Lambda
   level: 60%
+- skill:
+  name: Helm & Kubernetes & Docker
+  level: 40%
 - skill:
   name: Dgraph & Cassandra
   level: 60%
