@@ -1,21 +1,30 @@
 - skill:
-  name: Java
+  name: Team Management
+  level: 80%
+- skill:
+  name: Code Review
+  level: 80%
+- skill:
+  name: Technical Design
   level: 70%
 - skill:
   name: Scala
   level: 80%
 - skill:
-  name: AWS DynamoDB, Kinesis, Lambda
+  name: Java
   level: 60%
 - skill:
-  name: Helm & Kubernetes & Docker
+  name: AWS DynamoDB, Kinesis, Lambda
+  level: 80%
+- skill:
+  name: Kubernetes & Docker
   level: 40%
 - skill:
   name: Dgraph & Cassandra
   level: 60%
 - skill:
   name: JavaScript & TypeScript
-  level: 40%
+  level: 50%
 - skill:
   name: HTML5 & CSS
   level: 50%
