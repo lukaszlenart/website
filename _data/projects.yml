@@ -11,9 +11,4 @@ projects:
   - project:
     title: Launch4j Maven Plugin
     link: "https://github.com/lukaszlenart/launch4j-maven-plugin"
-    tagline: "A Maven wrapper around http://launch4j.sourceforge.net/ which allows pack JARs into executables and creates installers"
-  - project:
-    title: Gruuf
-    link: "https://gruuf.com/"
-    tagline: "A service that allows you to control history of your motorbike, keep track of incoming periodic maintenance activities and any other service activities your perform in your motorbike."
-    
+    tagline: "A Maven wrapper around https://launch4j.sourceforge.net/ which allows pack JARs into executables and creates installers"
