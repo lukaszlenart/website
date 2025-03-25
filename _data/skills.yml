@@ -9,13 +9,13 @@
   level: 70%
 - skill:
   name: Scala
-  level: 80%
+  level: 65%
 - skill:
   name: Java
-  level: 60%
+  level: 55%
 - skill:
   name: AWS DynamoDB, Kinesis, Lambda
-  level: 80%
+  level: 75%
 - skill:
   name: Kubernetes & Docker
   level: 40%
