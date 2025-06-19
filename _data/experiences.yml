@@ -1,5 +1,10 @@
 - experience:
   role: Technical Team Lead
+  time: 04/2025 -
+  company: "NDA, Chicago, USA"
+  details: "Enhance and maintain a leading futures trading platform. Technologies: Scala, Akka Cluster, GCP, Github."
+- experience:
+  role: Technical Team Lead
   time: 01/2023 - 01/2025
   company: "SiriusXM Holdings Inc., NY, USA"
   details: "Build a new cloud based platform to support selling radio/music/podcasts subscription. Technologies used: Scala, Smithy4s, http4s, Scala Cats & Effect, Amazon Kinesis, Amazon DynamoDB, Git."
