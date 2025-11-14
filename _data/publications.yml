@@ -8,3 +8,7 @@ publications:
     title: Migrating to Scala 3
     link: https://softwaremill.com/migrating-to-scala-3/
     tags: [Scala,Migration,Scala 3]
+  - paper:
+    title: "Understanding How Claude Code Works: A Deep Dive into LLM-Powered Developer Tools"
+    link: https://virtuslab.com/blog/ai/how-claude-code-works/
+    tags: [AI,Programming,Scala,TypeScript]
