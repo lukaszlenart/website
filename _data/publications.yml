@@ -1,14 +1,18 @@
 intro: "My articles and blogposts"
 publications:
   - paper:
-    title: Understanding Data Subject Requests (DSRs) and Implementing a Scalable Solution
-    link: https://softwaremill.com/understanding-data-subject-requests-dsrs-and-implementing-a-scalable-solution/
-    tags: [Microservices,Architecture, Security, DSR]
+    title: "Understanding How Claude Code Works: A Deep Dive into LLM-Powered Developer Tools"
+    link: https://virtuslab.com/blog/ai/how-claude-code-works/
+    tags: [AI,Programming,Scala,TypeScript]
   - paper:
     title: Migrating to Scala 3
     link: https://softwaremill.com/migrating-to-scala-3/
     tags: [Scala,Migration,Scala 3]
   - paper:
-    title: "Understanding How Claude Code Works: A Deep Dive into LLM-Powered Developer Tools"
-    link: https://virtuslab.com/blog/ai/how-claude-code-works/
-    tags: [AI,Programming,Scala,TypeScript]
+    title: Understanding Data Subject Requests (DSRs) and Implementing a Scalable Solution
+    link: https://softwaremill.com/understanding-data-subject-requests-dsrs-and-implementing-a-scalable-solution/
+    tags: [Microservices,Architecture,Security,DSR]
+  - paper:
+    title: What’s New in Apache Struts 7
+    link: https://softwaremill.com/whats-new-in-apache-struts-7/
+    tags: [Java,Open Source,Apache Struts,Struts]
