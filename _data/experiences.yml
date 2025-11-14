@@ -1,4 +1,9 @@
 - experience:
+  role: Senior Developer
+  time: 10/2025 - still
+  company: "NDA, Tel Aviv, Israel"
+  details: "Support on-going customer activities and fix existing the largest Extended Detection and Response (XDR) platform, improve overall performance, reduce technical debt. Technologies: Java/Groovy, Spring Boot, Aerospike, ScyllaDB, GCP, Github."
+- experience:
   role: Senior Scala Developer
   time: 04/2025 - 08/2025
   company: "NDA, Chicago, USA"
