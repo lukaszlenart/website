@@ -1,7 +1,10 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "My articles and blogposts"
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Understanding Data Subject Requests (DSRs) and Implementing a Scalable Solution
+    link: https://softwaremill.com/understanding-data-subject-requests-dsrs-and-implementing-a-scalable-solution/
+    tags: [Microservices,Architecture, Security, DSR]
+  - paper:
+    title: Migrating to Scala 3
+    link: https://softwaremill.com/migrating-to-scala-3/
+    tags: [Scala,Migration,Scala 3]
