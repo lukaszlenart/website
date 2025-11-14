@@ -16,3 +16,7 @@ publications:
     title: What’s New in Apache Struts 7
     link: https://softwaremill.com/whats-new-in-apache-struts-7/
     tags: [Java,Open Source,Apache Struts,Struts]
+  - paper:
+    title: How to develop secure web applications
+    link: https://softwaremill.com/how-to-develop-secure-web-applications//
+    tags: [Security,Web Applications,Web App Development,CSP,Content Security Policy]
