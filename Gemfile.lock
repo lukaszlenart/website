@@ -45,7 +45,7 @@ GEM
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (7.0.5)
+    public_suffix (5.1.1)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -60,7 +60,7 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-darwin-19
+  universal-darwin-25
 
 DEPENDENCIES
   coderay (~> 1.1.2)
